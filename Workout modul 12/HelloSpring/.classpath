@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-aspects-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-instrument-tomcat-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-jms-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-messaging-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-webmvc-portlet-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.4/lib/spring/4.1.6.RELEASE/spring-websocket-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
